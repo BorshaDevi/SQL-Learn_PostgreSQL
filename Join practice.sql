@@ -55,3 +55,41 @@ c.customer_id
 ORDER BY
 c.customer_id 
 
+-- ch-5
+SELECT * FROM payment
+
+SELECT 
+c.first_name ||'  '|| c.last_name AS customer_name,
+SUM (p.amount) total_sum
+FROM customer c LEFT JOIN payment p ON c.customer_id = p.customer_id
+GROUP BY
+c.customer_id
+ORDER BY
+SUM (p.amount) DESC
+
+-- ch-6
+SELECT
+c.first_name ||'  '|| c.last_name AS customer_name,
+SUM(p.amount) total_sum
+FROM customer c LEFT JOIN payment p  USING (customer_id)
+GROUP BY
+customer_id
+HAVING 
+SUM(p.amount) >100
+
+-- ch-7
+SELECT * FROM sales
+SELECT 
+c.city,
+COUNT(*)
+FROM customers c LEFT JOIN employees e ON c.id = e.employees_id
+GROUP BY
+c.city
+
+SELECT 
+c.city,
+COUNT(*)
+FROM customers c LEFT JOIN sales s USING(id)
+GROUP BY
+c.city
+
