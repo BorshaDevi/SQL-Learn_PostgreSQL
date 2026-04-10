@@ -5,6 +5,7 @@ I am learning SQL and practicing queries on datasets.</p>
 <p>Here I practice SQL concepts by writing queries on different topics.
 Each file contains queries related to a specific SQL concept.</p>
 <h1>File Structure</h1>
+
 ```
 SQL-Learn_PostgreSQL/
 │
@@ -15,5 +16,6 @@ SQL-Learn_PostgreSQL/
 ├── Having.sql
 ├── JOIN.sql
 ├── practice.sql
-
 ```
+
+
