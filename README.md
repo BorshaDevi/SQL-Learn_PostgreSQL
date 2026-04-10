@@ -11,11 +11,22 @@ SQL-Learn_PostgreSQL/
 │
 ├── Aggregate.sql
 ├── CASE.sql
-├── CRUD operation.sql
+├── crud practice.sql
 ├── GROUP BY.sql
 ├── Having.sql
+├── How to column ADD and REMOVE.sql
 ├── JOIN.sql
-├── practice.sql
+├── Join practice.sql
+├── Limit.sql
+├── Order by.sql
+├── README.md
+├── SQL-TIME AND DATE QUERY.sql
+├── count.sql
+├── CRUD operation.sql
+├── one to many relationship.sql
+├── practice sql 2.sql
+├── practice sql.sql
+├── sql-between,like,in,is null.sql
 ```
 
 
