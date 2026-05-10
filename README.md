@@ -4,6 +4,19 @@ I am learning SQL and practicing queries on datasets.</p>
 <h1>🌩️About</h1>
 <p>Here I practice SQL concepts by writing queries on different topics.
 Each file contains queries related to a specific SQL concept.</p>
+
+<h1>🧠 Topics Covered</h1>
+<ul>
+  <li>SELECT, WHERE</li>
+  <li>ORDER BY, LIMIT</li>
+  <li>GROUP BY, HAVING</li>
+  <li>JOIN</li>
+  <li>CASE Statement</li>
+  <li>CRUD Operations</li>
+  <li>Aggregate Functions</li>
+  <li>Date & Time Queries</li>
+</ul>
+
 <h1>🛠️ Tools & Technologies</h1>
 <ul>
   <li>PostgreSQL</li>
