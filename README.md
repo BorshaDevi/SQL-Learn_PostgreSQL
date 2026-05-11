@@ -75,7 +75,3 @@ This PDF contains PostgreSQL interview questions, SQL concepts, and practice mat
 <p>Building Dreams With Code.</p>
 ---------------------------------
 <p>Happy coding journey...😊</p>
-
-
-
-
