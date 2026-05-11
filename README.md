@@ -56,9 +56,20 @@ SQL-Learn_PostgreSQL/
 <a href='https://neon.com/postgresql/tutorial'>NEON PostgreSQL Tutorial</a>
 
 <h1>🚀PDF File for Interview Practice</h1>
-
-
-
+<p>
+This PDF contains PostgreSQL interview questions, SQL concepts, and practice materials to improve database knowledge and interview preparation.
+</p>
+<h6><b>:bulb:What You Will Learn</b></h6>
+<ul>
+  <li>SQL Fundamentals</li>
+  <li>JOIN Queries</li>
+  <li>GROUP BY & HAVING</li>
+  <li>Aggregate Functions</li>
+  <li>CRUD Operations</li>
+  <li>Subqueries</li>
+  <li>PostgreSQL Interview Questions</li>
+</ul>
+<b><a href='https://drive.google.com/drive/folders/1eHEw3wEfepcSkwhhQojpbtIN0eRHqgVv'>PDF File</a></b>
 
 <hr></hr>
 <p>Building Dreams With Code.</p>
