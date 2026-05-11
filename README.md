@@ -5,7 +5,7 @@ I am learning SQL and practicing queries on datasets.</p>
 <p>Here I practice SQL concepts by writing queries on different topics.
 Each file contains queries related to a specific SQL concept.</p>
 
-<h1>🧠 Topics Covered</h1>
+<h1>🧠 Concepts & Practice</h1>
 <ul>
   <li>SELECT, WHERE</li>
   <li>ORDER BY, LIMIT</li>
@@ -49,12 +49,22 @@ SQL-Learn_PostgreSQL/
 ├── practice sql.sql
 ├── sql-between,like,in,is null.sql
 ```
-
-
 <h1>📖Resources</h1>
 <h2>Online Course</h2>
 <a href='https://www.youtube.com/watch?v=SpfIwlAYaKk&t=9600s'>PostgreSQL Tutorial for Beginners</a>
 <h2>Website</h2>
 <a href='https://neon.com/postgresql/tutorial'>NEON PostgreSQL Tutorial</a>
+
+<h1>🚀PDF File for Interview Practice</h1>
+
+
+
+
+<hr></hr>
+<p>Building Dreams With Code.</p>
+---------------------------------
+<p>Happy coding journey...😊</p>
+
+
 
 
