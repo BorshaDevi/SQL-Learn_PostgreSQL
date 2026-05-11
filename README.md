@@ -51,3 +51,10 @@ SQL-Learn_PostgreSQL/
 ```
 
 
+<h1>📖Resources</h1>
+<h2>Online Course</h2>
+<a href='https://www.youtube.com/watch?v=SpfIwlAYaKk&t=9600s'>PostgreSQL Tutorial for Beginners</a>
+<h2>Website</h2>
+<a href='https://neon.com/postgresql/tutorial'>NEON PostgreSQL Tutorial</a>
+
+
